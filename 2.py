@@ -169,3 +169,4 @@ update_status_text()
 screen.ontimer(decrease_hunger, 5000)
 screen.ontimer(check_mouse_touch, 100)
 screen.mainloop()
+test
